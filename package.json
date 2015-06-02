@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "main": "plugin.js",
+    "name": "cravler-faye-app-integration-plugin",
+    "description": "Faye-app integration plugin",
+    "version": "0.0.1",
+    "author": "Sergei Vizel",
+    "license": "MIT"
+}
