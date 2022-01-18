@@ -10,12 +10,12 @@
         }
     ],
     "require": {
-        "cravler/faye-app-bundle": "~1.0",
-        "cravler/faye-app-integration": "~1.0"
+        "cravler/faye-app-bundle": "^1.0|^2.0",
+        "cravler/faye-app-integration": "^1.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "dev-master": "1.x-dev"
         }
     }
 }
