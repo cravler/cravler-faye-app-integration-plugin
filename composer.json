@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "cravler/faye-app-bundle": "^1.0|^2.0",
+        "cravler/faye-app-bundle": "^1.0|^2.0|^3.0",
         "cravler/faye-app-integration": "^1.0"
     },
     "extra": {
